@@ -1,3 +1,5 @@
 OccupationDiagrams
 *.hi
 *.o
+*.pdf
+*.svg
