@@ -1,0 +1,3 @@
+
+./OccupationDiagrams -w 600 -h 600 -o test_out.svg test_input 
+inkscape -D -A test_out.pdf test_out.svg 
