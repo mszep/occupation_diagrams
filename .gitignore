@@ -3,3 +3,5 @@ OccupationDiagrams
 *.o
 *.pdf
 *.svg
+.*.swp
+.*.swo
